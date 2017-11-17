@@ -28,8 +28,6 @@ bye-flash-hello-html5 | 再见flash 你好html5
 
 - [网易云课堂](http://study.163.com)
 
-- [芒果TV](http://www.mgtv.com/)
-
 - [中国大学MOOC](http://icourse163.org)
 
   提示：使用Mac的用户可以直接使用HTML5播放。
@@ -48,10 +46,15 @@ bye-flash-hello-html5 | 再见flash 你好html5
 
 - [搜狐视频](https://tv.sohu.com/)
 
+---
+
+遇到“视频格式或者MIME不支持”是无能为力的，这与解码器相关，了解相关信息请问搜索引擎。
+
 # 使用
+
 1. 根据你的浏览器情况安装[脚本管理器](https://greasyfork.org/zh-CN)
 
-   注意：**Firefox用户暂时不要使用greasymonkey扩展**，建议使用[Tampermonkey](https://tampermonkey.net/)，油猴新版本插件大有问题，许多脚本都会失效（2017.11留）。
+   注意：greasymonkey新版不止为何不能良好加载本脚本，请使用[tampermonkey](https://tampermonkey.net/)
 
 2. 安装此脚本，以下两种方式任选其一：
    - 查看[bye-flash-hello-html5.user.js](https://github.com/levinit/bye-flash-hello-html5/blob/master/bye-flash-hello-html5.user.js) ，然后点击[Raw](https://github.com/levinit/bye-flash-hello-html5/raw/master/bye-flash-hello-html5.user.js)按钮；
